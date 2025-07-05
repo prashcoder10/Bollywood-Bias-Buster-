@@ -1,0 +1,14 @@
+Movie,Total Biased Lines,Bias Types,Male Characters Affected,Female Characters Affected
+Haider,34,"{'Gendered Occupation': 33, 'Appearance bias': 1}",4,1
+Highway,41,{'Gendered Occupation': 41},4,2
+JabWeMet,8,{'Gendered Occupation': 8},2,2
+Kaminey,28,{'Gendered Occupation': 28},6,2
+Maqbool,27,{'Gendered Occupation': 27},3,2
+Masaan,7,{'Gendered Occupation': 7},3,0
+Neerja,27,"{'Gendered Occupation': 26, 'Appearance bias': 1}",3,3
+Nil Battey Sannata,7,{'Gendered Occupation': 7},3,1
+Pink,47,{'Gendered Occupation': 47},6,2
+Queen,10,"{'Gendered Occupation': 9, 'Appearance bias': 1}",3,1
+Raman Raghav 2_0,11,{'Gendered Occupation': 11},2,1
+Rang De Basanti Script - Film Companion-min,40,{'Gendered Occupation': 40},5,1
+Rockstar,32,"{'Gendered Occupation': 30, 'Appearance bias': 2}",5,3

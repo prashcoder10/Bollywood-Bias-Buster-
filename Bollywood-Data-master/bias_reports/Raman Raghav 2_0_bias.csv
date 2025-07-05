@@ -1,0 +1,52 @@
+sentence,character,gender,keyword,bias_type
+"RAMANNA 
+(To Raghavan) 
+par main barabar dekhta hai 
+aapko.. 
+apun ko lagta hai.. apun 
+aapko aapse zyada jaanta hai  
+RAGHAVAN 
+kabhi police station phone 
+kiya tune?",police,male,police,Gendered Occupation
+"RAMANNA 
+maine nahi kiya..   
+RAGHAVAN 
+kisi Raghavan naam ke police 
+officer ko.. 
+RAMANNA 
+apun ke paas toh phone hi 
+nahi hai..",police,male,police,Gendered Occupation
+"na police station 
+ka naa",police,male,police,Gendered Occupation
+Police ko bata jaa ke..,Police,male,Police,Gendered Occupation
+"Police wale 
+nahi khilate..",Police,male,Police,Gendered Occupation
+"SLUM HOUSE - NIGHT 
+Anita (Simmy's maid) is bathing her baby..",maid,female,maid,Gendered Occupation
+"Aaj kal dikhta nahi 
+police chauki ke bahar..",police,male,police,Gendered Occupation
+"ye police kai ko 
+aati hai 
+
+ 
+71 
+SLUM KID 
+Uncle police wala gaya    
+Cops are enquiring about him.",police,male,police,Gendered Occupation
+"SWAMI JI 
+Arre Ubbi sahab.. iss Bambai 
+shahar me sota kaun hai.. wo 
+bhi police wale..",police,male,police,Gendered Occupation
+"Police 
+wala hai, khud nasha karta 
+hai..",Police,male,Police,Gendered Occupation
+"RAMANNA 
+Aapki aankh mein aankh 
+daalne..  
+ 
+(smiles) 
+ 
+bade police wale ki aankh 
+mein aankh daal ke baat karne 
+ka maza hi zabardast hota 
+hai..",police,male,police,Gendered Occupation

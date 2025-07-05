@@ -1,0 +1,15 @@
+sentence,character,gender,keyword,bias_type
+O boss…,boss,male,boss,Gendered Occupation
+"Geet
+Kya boss?",boss,male,boss,Gendered Occupation
+"Hum smugglers ki acting kyon kar rahe hain?
+Receptionist
+Agli baar kuch suitcase type laana saath mein – thoda samaan, police ko dikhaane ke 
+liye, ki haan bhai gentry hai.",police,male,police,Gendered Occupation
+"Jasbeer
+(to Kulmeet) Nahin ji, police ko nahin batana hai.",police,male,police,Gendered Occupation
+"A maid is rushing after him, calling out to him.",maid,female,maid,Gendered Occupation
+His secretary – Meher – is waiting for him.,secretary,female,secretary,Gendered Occupation
+"Inside, Aditya climbs steps from the 
+porch and enters the foyer with Raghav, followed by his secretary Meher and two other men in suits.",secretary,female,secretary,Gendered Occupation
+Scene kya hai boss?,boss,male,boss,Gendered Occupation

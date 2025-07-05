@@ -1,0 +1,17 @@
+sentence,character,gender,keyword,bias_type
+"Chanda is smiling and 
+sleeping with her two bunny teeth in the front and Appu her 
+daughter who is 14 is sleeping with her mouth open.",daughter,female,daughter,Gendered Occupation
+"Dekh engineer ka beta 
+engineer banta hai, doctor ka beta 
+doctor banta hai toh baai ki beti 
+kya banegi?",doctor,male,doctor,Gendered Occupation
+"Doctor 
+ka beta doctor...",Doctor,male,Doctor,Gendered Occupation
+"Doctor 
+ka beta doctor...",doctor,male,doctor,Gendered Occupation
+"Usse doctor engineer 
+banaane ki meri aukaat nahi hai.",doctor,male,doctor,Gendered Occupation
+Traffic police on a signal salutes.,police,male,police,Gendered Occupation
+"Chanda looks at her daughter as her facial 
+expressions shows pride.",daughter,female,daughter,Gendered Occupation
